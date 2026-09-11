@@ -26,7 +26,7 @@ export default function Cards({ cardsPromise }: cardPropsType) {
     };
 
     return (
-        <div className="max-w-7xl mx-auto px-4 py-8">
+        <div className="max-w-6xl mx-auto px-4 py-8">
             <div className="mb-8">
                 <h1 className="text-[36px] font-extrabold text-slate-900">
                     Explore the{" "}
