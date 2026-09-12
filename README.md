@@ -53,6 +53,10 @@ Conditional rendering means rendering specific UI elements based on logical cond
   <p className="text-xs text-slate-400 border border-dashed border-slate-300 rounded-lg p-3 text-center">
     Your stack is empty.
   </p>
+### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
+Parent → Child: Data is passed down via props.
+
+Child → Parent: The parent passes a callback function to the child as a prop. When an event happens inside the child (e.g., clicking a button), the child executes that function, passing data back up to the parent as an argument.
 ) : (
   /* Render Selected Stack Items */
 )}
