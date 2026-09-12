@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "React",
-    "category": "frontend",
+    "category": "Frontend",
     "description": "A popular JavaScript library for building interactive user interfaces and modern web applications.",
     "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "rating": 4.9,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Next.js",
-    "category": "frontend",
+    "category": "Frontend",
     "description": "A React framework for building fast, scalable, and production-ready web applications.",
     "icon": "https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png",
     "rating": 4.8,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Node.js",
-    "category": "backend",
+    "category": "Backend",
     "description": "A JavaScript runtime that allows developers to build fast and scalable server-side applications.",
     "icon": "https://www.jetbrains.com/guide/assets/nodejs-icon-b7d12c95.svg",
     "rating": 4.8,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Express.js",
-    "category": "backend",
+    "category": "Backend",
     "description": "A lightweight and flexible Node.js framework for creating APIs and web servers.",
     "icon": "https://www.manektech.com/storage/developer/1646733543.webp",
     "rating": 4.7,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "MongoDB",
-    "category": "database",
+    "category": "Database",
     "description": "A flexible NoSQL database designed for storing and managing application data using documents.",
     "icon": "https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png",
     "rating": 4.7,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "PostgreSQL",
-    "category": "database",
+    "category": "Database",
     "description": "A powerful open-source relational database system designed for reliable and scalable applications.",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvA8nkjeyiaFYErp2e9cnVzfdHk3hXdAtYSgSMvgZIcA3bWFJtTeZXq55&s=10",
     "rating": 4.8,

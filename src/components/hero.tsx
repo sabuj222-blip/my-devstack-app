@@ -1,4 +1,3 @@
-
 import Banner from "../assets/banner-stack.png";
 
 const HeroSection = () => {
@@ -7,7 +6,9 @@ const HeroSection = () => {
             <div className="flex flex-col items-center md:items-start flex-1 gap-5 md:gap-7 text-center md:text-left">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-[56px] font-extrabold leading-[1.15] md:leading-[1.1] text-slate-950">
                     Build Your Ideal<br className="hidden sm:inline" />{" "}
-                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FF7A00] to-[#AC00E4] inline-block whitespace-nowrap">Development Stack</span>
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FF7A00] to-[#AC00E4] inline-block whitespace-nowrap">
+                        Development Stack
+                    </span>
                 </h1>
                 <p className="max-w-2xl text-base sm:text-lg leading-relaxed text-slate-600">
                     Explore frontend, backend, database, and tooling options, compare
@@ -30,7 +31,6 @@ const HeroSection = () => {
                     className="object-contain w-full h-auto max-w-md md:max-w-xl"
                 />
             </div>
-
         </section>
     );
 };

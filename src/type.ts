@@ -7,4 +7,9 @@ export interface cardType {
   rating: number
   difficulty: string
   badge: string
+},
+export interface ToastItem {
+  id: number;
+  message: string;
+  type: "add" | "remove";
 }
