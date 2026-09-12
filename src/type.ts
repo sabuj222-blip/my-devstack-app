@@ -8,8 +8,8 @@ export interface cardType {
   difficulty: string
   badge: string
 },
-export interface ToastItem {
-  id: number;
-  message: string;
-  type: "add" | "remove";
+  interface CardProps {
+  card: cardType;
+  onSelect: (card: cardType) => void;
+  isSelected: boolean;
 }
